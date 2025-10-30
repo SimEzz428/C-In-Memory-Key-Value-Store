@@ -1,0 +1,3 @@
+/Users/simo/dataforge/build/CMakeFiles/dataforge.dir
+/Users/simo/dataforge/build/CMakeFiles/edit_cache.dir
+/Users/simo/dataforge/build/CMakeFiles/rebuild_cache.dir

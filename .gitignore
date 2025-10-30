@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+
+# Local data
+data/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
